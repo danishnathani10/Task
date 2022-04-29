@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Task_2323_26422",
+			"Path": "D:\\Unreal Projects\\Task_2323_26422\\Source\\Task_2323_26422.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Task_2323_26422Editor",
+			"Path": "D:\\Unreal Projects\\Task_2323_26422\\Source\\Task_2323_26422Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

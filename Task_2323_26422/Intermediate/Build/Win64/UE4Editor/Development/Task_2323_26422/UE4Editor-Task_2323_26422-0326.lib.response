@@ -1,0 +1,23 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Task_2323_26422-0326.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Unreal Projects\Task_2323_26422\Intermediate\Build\Win64\Task_2323_26422Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Unreal Projects\Task_2323_26422\Intermediate\Build\Win64\UE4Editor\Development\Task_2323_26422\DoorActor.cpp.obj"
+"D:\Unreal Projects\Task_2323_26422\Intermediate\Build\Win64\UE4Editor\Development\Task_2323_26422\LeverActor.cpp.obj"
+"D:\Unreal Projects\Task_2323_26422\Intermediate\Build\Win64\UE4Editor\Development\Task_2323_26422\SaveDataGameInstance.cpp.obj"
+"D:\Unreal Projects\Task_2323_26422\Intermediate\Build\Win64\UE4Editor\Development\Task_2323_26422\Task_2323_26422.cpp.obj"
+"D:\Unreal Projects\Task_2323_26422\Intermediate\Build\Win64\UE4Editor\Development\Task_2323_26422\Task_2323_26422Character.cpp.obj"
+"D:\Unreal Projects\Task_2323_26422\Intermediate\Build\Win64\UE4Editor\Development\Task_2323_26422\Task_2323_26422GameMode.cpp.obj"
+"D:\Unreal Projects\Task_2323_26422\Intermediate\Build\Win64\UE4Editor\Development\Task_2323_26422\DoorActor.gen.cpp.obj"
+"D:\Unreal Projects\Task_2323_26422\Intermediate\Build\Win64\UE4Editor\Development\Task_2323_26422\LeverActor.gen.cpp.obj"
+"D:\Unreal Projects\Task_2323_26422\Intermediate\Build\Win64\UE4Editor\Development\Task_2323_26422\SaveDataGameInstance.gen.cpp.obj"
+"D:\Unreal Projects\Task_2323_26422\Intermediate\Build\Win64\UE4Editor\Development\Task_2323_26422\Task_2323_26422.init.gen.cpp.obj"
+"D:\Unreal Projects\Task_2323_26422\Intermediate\Build\Win64\UE4Editor\Development\Task_2323_26422\Task_2323_26422Character.gen.cpp.obj"
+"D:\Unreal Projects\Task_2323_26422\Intermediate\Build\Win64\UE4Editor\Development\Task_2323_26422\Task_2323_26422GameMode.gen.cpp.obj"
+"D:\Unreal Projects\Task_2323_26422\Intermediate\Build\Win64\UE4Editor\Development\Task_2323_26422\Default.rc2.res"
+/OUT:"D:\Unreal Projects\Task_2323_26422\Intermediate\Build\Win64\UE4Editor\Development\Task_2323_26422\UE4Editor-Task_2323_26422-0326.lib"

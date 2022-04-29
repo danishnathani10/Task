@@ -1,0 +1,11 @@
+﻿  Building Task_2323_26422Editor...
+  Using Visual Studio 2019 14.29.30143 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 4 actions with 8 processes...
+    [1/4] LeverActor.cpp
+    [2/4] UE4Editor-Task_2323_26422.lib
+       Creating library D:\Unreal Projects\Task_2323_26422\Intermediate\Build\Win64\UE4Editor\Development\Task_2323_26422\UE4Editor-Task_2323_26422.lib and object D:\Unreal Projects\Task_2323_26422\Intermediate\Build\Win64\UE4Editor\Development\Task_2323_26422\UE4Editor-Task_2323_26422.exp
+    [3/4] UE4Editor-Task_2323_26422.dll
+       Creating library D:\Unreal Projects\Task_2323_26422\Intermediate\Build\Win64\UE4Editor\Development\Task_2323_26422\UE4Editor-Task_2323_26422.suppressed.lib and object D:\Unreal Projects\Task_2323_26422\Intermediate\Build\Win64\UE4Editor\Development\Task_2323_26422\UE4Editor-Task_2323_26422.suppressed.exp
+    [4/4] Task_2323_26422Editor.target
+  Total time in Parallel executor: 7.47 seconds
+  Total execution time: 8.12 seconds
